@@ -14,7 +14,7 @@ Andy is studious and knows how to code!! 😍
 ### Creative!!!
 
 
-[![Andy](https://github.com/elena-jin/andy/blob/gh-pages/1597434431708.jfif](https://github.com/elena-jin)
+![image](https://media-exp1.licdn.com/dms/image/C4D03AQHhiOmcRkHVOw/profile-displayphoto-shrink_200_200/0/1597434431708?e=1632960000&v=beta&t=KG8p1Yoo8u_MOKCk4suoV6OeO_LD4X-bk-URF8RrIaA)
 
 ```
 
