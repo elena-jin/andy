@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the Andy fansite
 
-You can use the [editor on GitHub](https://github.com/elena-jin/andy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You might be asking, who is Andy? Well, Andy Ouyang is an amazing team member who is a very fantastic person because of his passion that he puts inside his work. During his short time inside the summer fellowship, he was the pillar of the group and behaved like someone who everybody could rely on. He is always there when people need help, almost always carrying the team in the toughest situations. Being dedicated and rational, Andy serves as the person who is determined to do his best work always, thus helping everyone to acheive happy smiles on their face at the end of the meetings. Although Andy is busy with his schedule, multitasking 3 huge jobs at once, he never fails to reply when you need help. Outside of Andy's superb work ethic and habits, he is also amazing at video games. He also acts like a carry inside video games, helping everyone out while flexing his luck. Not only having a nice humor, but also being able to have a lot of common interests if you are a weeb (even if you aren't that's okay, Andy is an expert at socializing as he doesn't come off as fake). This aspect of Andy creates a very holistic and down to earth personality, thus making him popular with his teams. Anyone who works with Andy will have the privilege of working with the smartest person in the team. Andy is a fantastic role model not only for me, but I'm sure for a lot of people who are trying to improve their productivity and work ethic as well.
 
 ### Markdown
 
