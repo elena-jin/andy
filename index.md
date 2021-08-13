@@ -14,7 +14,8 @@ Andy is studious and knows how to code!! 😍
 ### Creative!!!
 
 
-[1597434431708](1597434431708.jfif "Andy")
+[![Andy](https://github.com/elena-jin/andy/blob/gh-pages/1597434431708.jfif](https://github.com/elena-jin)
+
 ```
 
 ### 💕
