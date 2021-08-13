@@ -14,15 +14,13 @@ Andy is studious and knows how to code!! 😍
 ### Creative!!!
 
 
-[https://media-exp1.licdn.com/dms/image/C4D03AQHhiOmcRkHVOw/profile-displayphoto-shrink_200_200/0/1597434431708?e=1632960000&v=beta&t=KG8p1Yoo8u_MOKCk4suoV6OeO_LD4X-bk-URF8RrIaA](url) and ![Andy](src)
+![Andy Picture](https://media-exp1.licdn.com/dms/image/C4D03AQHhiOmcRkHVOw/profile-displayphoto-shrink_200_200/0/1597434431708?e=1632960000&v=beta&t=KG8p1Yoo8u_MOKCk4suoV6OeO_LD4X-bk-URF8RrIaA "Andy's linkedin profile pic! Connect with him rn")
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 💕
 
-### Jekyll Themes
+I hope you liked my writing lol
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elena-jin/andy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Glad you made it here
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thank you for reading~
