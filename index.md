@@ -14,8 +14,7 @@ Andy is studious and knows how to code!! 😍
 ### Creative!!!
 
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQHhiOmcRkHVOw/profile-displayphoto-shrink_200_200/0/1597434431708?e=1632960000&v=beta&t=KG8p1Yoo8u_MOKCk4suoV6OeO_LD4X-bk-URF8RrIaA"
-     align="top" width="1000"><a href="01tear.html"
+[1597434431708](1597434431708.jfif "Andy")
 ```
 
 ### 💕
