@@ -1,6 +1,4 @@
-💞😍 
-## ~ Welcome to the Andy Fansite ~
-😍💞
+## 💞😍 ~ Welcome to the Andy Fansite ~ 😍💞
 
 ![1597434431708](https://user-images.githubusercontent.com/83528210/129315963-52ca867a-b40b-41af-ad03-482e3da31d0c.png)![unknown](https://user-images.githubusercontent.com/83528210/129316750-d56a4a1d-149d-445a-a2c0-81f39b98dd48.png)
 
